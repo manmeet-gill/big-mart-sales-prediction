@@ -23,3 +23,10 @@ Looking at the data, we can determine the many hypothesis, but some of them that
 	Display Area: Products which are given bigger shelves in the store are likely to catch attention first and sell more.
 	Advertising: Better advertising of products in the store will should higher sales in most cases.
 	Promotional Offers: Products accompanied with attractive offers and discounts will sell more.
+
+Step 2: exploring the data
+	we look at the data and compare it to our hypothesis.
+		
+	https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+
+Step 3: data exploration in jupyter notebook 
